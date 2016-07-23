@@ -24,7 +24,7 @@ For more information; https://archive.ics.uci.edu/ml/datasets/Human+Activity+Rec
 
 
 
-####  The input dataset includes the following files:
+####  The input dataset/zip from UCI includes the following files:
 - 'README.txt'
 - 'features_info.txt': Shows information about the variables used on the feature vector.
 - 'features.txt': List of all features.
