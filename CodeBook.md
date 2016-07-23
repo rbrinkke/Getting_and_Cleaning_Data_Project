@@ -1,6 +1,5 @@
 # Code Book
 
-This code book summarizes the resulting data fields in `tidy.txt`.
 
 ## Identifiers
 
@@ -19,6 +18,45 @@ This code book summarizes the resulting data fields in `tidy.txt`.
 
 
 ## Measurements
+* tBodyAccStdX
+* tBodyAccStdY
+* tBodyAccStdZ
+* tGravityAccStdX
+* tGravityAccStdY
+* tGravityAccStdZ
+* tBodyAccJerkStdX
+* tBodyAccJerkStdY
+* tBodyAccJerkStdZ
+* tBodyGyroStdX
+* tBodyGyroStdY
+* tBodyGyroStdZ
+* tBodyGyroJerkStdX
+* tBodyGyroJerkStdY
+* tBodyGyroJerkStdZ
+* tBodyAccMagStd
+* tGravityAccMagStd
+* tBodyAccJerkMagStd
+* tBodyGyroMagStd
+* tBodyGyroJerkMagStd
+* fBodyAccStdX
+* fBodyAccStdY
+* fBodyAccStdZ
+* fBodyAccJerkStdX
+* fBodyAccJerkStdY
+* fBodyAccJerkStdZ
+* fBodyGyroStdX
+* fBodyGyroStdY
+* fBodyGyroStdZ
+* fBodyAccMagStd
+* fBodyBodyAccJerkMagStd
+* fBodyBodyGyroMagStd
+* fBodyBodyGyroJerkMagStd
+* angletBodyAccMeangravity
+* angletBodyAccJerkMeangravityMean
+* angletBodyGyroMeangravityMean
+* angletBodyGyroJerkMeangravityMean
+* angleXgravityMean
+* angleYgravityMean
+* angleZgravityMean
 
-* `tBodyAccMeanX`
 
