@@ -2,7 +2,7 @@
 Peer Graded Assignment: Getting and Cleaning Data Course Project
 
 Data is from the Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
-For more information; https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+1. For more information; https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 #### Setup eviroment
 1. For running the R script you need to install the package dplyr
