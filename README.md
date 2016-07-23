@@ -2,8 +2,11 @@
 Peer Graded Assignment: Getting and Cleaning Data Course Project
 
 -- For running the R script you need to install the package dplyr
+
 -- In the script run_analysis.R set the prj_home_dir to the root of the project
+
 -- UCI HAR Dataset folder is created in de root from the unzipped data.
+
 
 
 Steps in R script
