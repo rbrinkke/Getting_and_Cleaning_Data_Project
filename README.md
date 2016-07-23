@@ -10,10 +10,9 @@ Peer Graded Assignment: Getting and Cleaning Data Course Project
 #### Steps in R script
 
 1. Download and unzip the data if not exists.
-2. Load the activity labels 
+2. Load the activity labels
 3. Load the features
   The features whe use for subsetting the waned columns and format the rows for more readable format.
-
 4. Loading the train data and combine it to one dataset
   The three files are load into R for the train_x we create a subset and modify the colnames with the values of step 3
 5. Loading the test data ( same as the train data )
