@@ -11,7 +11,6 @@ For more information; https://archive.ics.uci.edu/ml/datasets/Human+Activity+Rec
 3. UCI HAR Dataset folder is created in de root from the unzipped data.
 
 
-
 #### Steps in R script
 
 1. Download and unzip the data if not exists.
