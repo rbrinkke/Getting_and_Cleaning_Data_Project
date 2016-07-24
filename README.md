@@ -22,7 +22,6 @@ For more information; https://archive.ics.uci.edu/ml/datasets/Human+Activity+Rec
 6. Combine test and train dataset and make a factor of the activity column, input from step 2
 7. Create a Tidy dataset and write it to the file tidy.txt in the prj_home_dir
 
-
 ####  The input dataset/zip from UCI includes the following files:
 - 'README.txt'
 - 'features_info.txt': Shows information about the variables used on the feature vector.
