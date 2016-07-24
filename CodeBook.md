@@ -1,7 +1,6 @@
 # Code Book
 
 information on the tidy data set from run_analysis.R
-
 ## Identifiers
 
 * `activity`- The type of activity 
