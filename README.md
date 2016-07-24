@@ -10,8 +10,6 @@ For more information; https://archive.ics.uci.edu/ml/datasets/Human+Activity+Rec
 2. In the script run_analysis.R set the prj_home_dir to the root of the project
 3. UCI HAR Dataset folder is created in de root from the unzipped data.
 
-
-
 #### Steps in R script
 
 1. Download and unzip the data if not exists.
