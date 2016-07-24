@@ -1,5 +1,4 @@
 # Code Book
-
 information on the tidy data set from run_analysis.R
 
 ## Identifiers
