@@ -16,7 +16,6 @@ if (!file.exists("UCI HAR Dataset")) {
 }
 setwd("./UCI HAR Dataset/")
 
-
 # Load the features 
 activity_labels <- read.table("activity_labels.txt" ,col.names = c("ActivityID","Activity") , stringsAsFactors = FALSE , colClasses=c(ActivityID="numeric",Activity="character"))
 
